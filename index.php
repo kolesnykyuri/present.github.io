@@ -16,7 +16,16 @@
 
 <div class="site">
 <div class="osnova">
-vfrvfrvrfv
+<?
+include 'templ/header.php';
+include 'templ/uslug.php';
+include 'templ/wework.php';
+include 'templ/premium.php';
+?>
+</div>
+<?
+include 'templ/footer.php';
+?>
 </div>
 
 
