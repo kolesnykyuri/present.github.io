@@ -1,0 +1,43 @@
+.uslugs{
+	text-align: center;
+	padding-bottom: 20%;
+}
+
+.uslugs h1{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.posl h3{
+	margin-top: -55%;
+}
+
+a.buttons {
+  margin-top: 10%;
+  color: #a0a0a0;
+  padding: 5%;
+  border-radius: 50px;
+  background: #fff;
+  box-shadow: 0 0 20px #444444;
+  display: none;
+}
+
+.posl:hover .buttons{
+	display:block;
+	position: relative;
+}
+
+.p1 a,
+.p4 a{
+	margin-top: 25%;
+}
+
+.p2 a,
+.p3 a{
+	margin-top: 15%;
+}
+
+.p1 { float: left; width: 15%; margin-left: 19%;  }
+.p2 { float: left; width: 15%; margin-left: 2%;  }
+.p3 { float: left; width: 15%; margin-left: 2%;  }
+.p4 { float: left; width: 15%; margin-left: 2%;  }

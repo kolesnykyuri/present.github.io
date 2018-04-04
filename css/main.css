@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+	user-select: none;
+	text-decoration: none;
+	font-family: Myriad Pro;
+
+}
+
+
+
+a{
+    color: #fff;
+}
+
+.site{
+	background: #f0f5fe;
+	width: 100%;
+}
+
+.osnova{
+	color: #474342;
+}
+
+.colortext {
+     color: #e94a4a;
+}
+
+h1{
+	font-size: 52px;
+}
+
+::-moz-focus-outer, ::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}

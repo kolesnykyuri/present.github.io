@@ -1,0 +1,40 @@
+.footer{
+    width: 100%;
+	background: #424242;
+}
+
+.footer_text {
+	color: #fff;
+	padding-top: 5%;
+	margin-left: 17%;
+}
+
+.ft1 p{
+	margin-left: 5%;
+	padding-top: 2%;
+}
+
+.fb{
+
+	margin-left: 25%;
+	margin-top: 20%;
+    text-transform: uppercase;
+    padding-bottom: 3%;
+}
+
+.ft2{
+	margin-top: 2%;
+}
+
+
+.ft2 p{
+	margin-top: 10%;
+	padding-bottom: 3%;
+}
+
+.ft2 h2{
+    text-transform: uppercase;	
+}
+
+.g1 { float: left; width: 30%;  margin-right: 5%; margin-left: 7%; }
+.g2 { float: left; width: 30%; }

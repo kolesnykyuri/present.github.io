@@ -1,0 +1,51 @@
+.prem h1{
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.prem h2{
+	margin-left: 25%;
+	color: #000;
+}
+
+.ww_polosa{
+	margin-left: 25%;
+}
+
+.icon_s{
+	padding-top: 5%;
+	margin-left: 20%;
+}
+
+.icon_s p{
+	margin-left: 7%;
+	margin-top: -3%;
+}
+
+.skils: last-child{
+	padding-bottom: 10%;
+}
+
+.prem ul{
+	list-style: inside;
+}
+
+.title_prem p{
+	margin-left: -10%;
+}
+
+a.button {
+  color: #a0a0a0;
+  padding: .8em 1em;
+  border-radius: 50px;
+  background: #fff;
+  box-shadow: 0 0 20px #444444;
+} 
+
+.butt{
+	box-shadow: #fff;
+	margin-top: 5%;
+	margin-left: 35%;
+	margin-bottom: 5%;
+}
+
